@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(245, 255, 160);
+}
+
+header{
+    background-color: rgb(251, 255, 3);
+}
+
+footer{
+    background-color: rgb(251, 255, 4);
+    text-align: center;
+}
+.container1{
+    background-color: bisque;
+}
+style
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    background-color: rgba(255, 251, 0, 0.993);
+    color: rgb(3, 3, 3);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 0, 0);
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+}
+
+.line {
+    border: none;
+    height: 10px;
+    background-color: black;
+    margin: 20px 0;
+}
